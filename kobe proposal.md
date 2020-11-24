@@ -23,7 +23,7 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-a better outcome would be switching the objects but also adding more functions like the increase in speed and change of background.
+A better outcome would be switching the objects but also adding more functions like the increase in speed and change of background.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
@@ -31,4 +31,4 @@ The best outcome would be if their arent any glithes in the game and all the fun
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Some steps that I would need to take in order to complete this project would be to first learn how to use the operating system LOVE. After that I can use the videos lessens used to make the Pong and try to code methods that could reverse its basic functions. If not I could reseach functions of game objects that can be used in love like learning how to spin a object and make artificial gravity within the game. 
+Some steps that I would need to take in order to complete this project would be to first learn how to use the operating system LOVE. After that I can use the videos lessens used to make the Pong and try to code methods that could reverse its basic functions. If not I could reseach functions of game objects that can be used in love like learning how to spin a object and make artificial gravity within the game.I would also need to learn more advanced skills in game programming and look up additional functions that I could add to the game. 
